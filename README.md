@@ -40,7 +40,7 @@ A modern, feature-rich to-do application built with React, TypeScript, and Tailw
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/SounakMoitra/SCT_WD_4.git
 cd to-do-web-app
 ```
 
